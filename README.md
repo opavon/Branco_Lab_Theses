@@ -12,4 +12,8 @@ This repository is intended as a living list of the dissertations from PhDs mint
 
   * __2020 | Ruben Duque do Vale__<br/>
 &emsp;&emsp;&emsp;*Spatial-memory control of defensive actions*.<br/> 
-&emsp;&emsp;&emsp;DOI: https://doi.org/10.17863/CAM.5568e
+&emsp;&emsp;&emsp;DOI: https://doi.org/10.17863/CAM.55684
+
+  * __2022 | Matthew G. Phillips__<br/>
+&emsp;&emsp;&emsp;*Navigational strategies and the role of the hippocampus in mouse escape behaviour*.<br/> 
+&emsp;&emsp;&emsp;DOI: https://discovery.ucl.ac.uk/id/eprint/10147019
